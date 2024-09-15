@@ -43,7 +43,3 @@ Users should be able to:
 
 I train my skills and remember the basics!
 
-## Author
-
-- Github - [Thomas Nevin K](https://github.com/Nevin06)
-- Linkedin - [Thomas Nevin K](https://www.linkedin.com/in/thomas-nevin-k/)
