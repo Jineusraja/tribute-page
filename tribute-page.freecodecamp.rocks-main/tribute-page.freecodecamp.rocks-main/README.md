@@ -1,8 +1,9 @@
-# freeCodeCamp - Tribute page solution
+# Tribute page solution
 
-![Desktop design](https://user-images.githubusercontent.com/18488402/233878949-8bf50bfa-212b-4686-bd28-b16bf79e8f57.png)
+![image](https://github.com/user-attachments/assets/f49139e7-4139-4885-9fed-8acc99eaf59b)
 
-This is a [solution](https://nevin06.github.io/tribute-page.freecodecamp.rocks/) to the [tribute page challenge on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page). freeCodeCamp is a community of millions of people around the world who are learning to code together.
+
+This is a [solution](http://127.0.0.1:5500/index.html) to the tribute page challenge on freeCodeCamp. freeCodeCamp is a community of millions of people around the world who are learning to code together.
 
 ## Table of contents
 
@@ -27,11 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop Design:
-  ![desktop-design](https://user-images.githubusercontent.com/18488402/233879168-9b4cce3a-0d9b-4b62-a355-dbfe48693b2c.png)
-- Mobile Design:
+- Desktop Design:![image](https://github.com/user-attachments/assets/76335dce-ae83-432c-856c-8a55085abeda)
 
-  ![mobile-design](https://user-images.githubusercontent.com/18488402/233879209-b6738ff4-fef1-4cde-9c4b-3662cb2b283d.png)
 
 ## My process
 
